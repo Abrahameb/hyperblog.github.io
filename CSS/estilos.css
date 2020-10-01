@@ -42,10 +42,19 @@ font-weight: normal;
 font-size: 0.8em;
 }
 
+<<<<<<< HEAD
 #cabecera #logo
 {
 width: 20px;
 vertical-align: middle;
+=======
+#footer
+{
+background: #33A;
+color: #DDD;
+text-align: center;
+padding: 0.5em;
+>>>>>>> 65f8e77504afb4c93d155dafcce245b4325a370e
 }
 
 #post
